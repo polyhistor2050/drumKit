@@ -13,31 +13,31 @@ h1 {
   
 /* background image for Drum sounds */
 .q {
-  background-image: url(images/tom1.png);
+  background-image: url(assets/images/tom1.png);
   }
   
 .w {
-  background-image: url(images/tom2.png);
+  background-image: url(assets/images/tom2.png);
   }
   
 .e {
-  background-image: url(images/tom3.png);
+  background-image: url(assets/images/tom3.png);
   }
   
 .r {
-  background-image: url(images/tom4.png);
+  background-image: url(assets/images/tom4.png);
   }
   
 .t {
-  background-image: url(images/snare.png);
+  background-image: url(assets/images/snare.png);
   }
   
 .y {
-  background-image: url(images/crash.png);
+  background-image: url(assets/images/crash.png);
   }
   
 .u {
-  background-image: url(images/kick.png);
+  background-image: url(assets/images/kick.png);
   }
   
 .game-over {
