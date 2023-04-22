@@ -11,6 +11,6 @@ This Project is created with:
 ## Setup
 To run this project, clone the repository to your local machine and then run/open the index.html file using the browser of your choice.
 
-##Features
+## Features
 Website landing page
 ![site landing page](./assets/images/drumKit.png)
