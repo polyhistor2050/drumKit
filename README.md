@@ -1,8 +1,8 @@
 ## Table of Contents
-* [Introduction](#drumkit)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
+* [Introduction]
+* [Technologies]
+* [Setup]
+* [Features]
 
 ## Drum Kit
 Website that generate different sounds, such as drum, trumplet and flute sound based on the keyboard presses or mouse press. Different collections of sounds
