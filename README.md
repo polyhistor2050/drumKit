@@ -4,7 +4,7 @@
 * Setup
 * Features
 
-## Drum Kit
+# Drum Kit
 Website that generate different sounds, such as drum, trumplet and flute sound based on the keyboard presses or mouse press. Different collections of sounds
 are organized based on rows, The top row refers to drum sound, Middle row is trumplet sound and the bottom row is flute sound.
 
