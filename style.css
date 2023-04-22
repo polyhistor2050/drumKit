@@ -11,35 +11,83 @@ h1 {
   
   }
   
-/* background image for Drum sounds */
+/* background image for Drum*/
 .q {
-  background-image: url(assets/images/tom1.png);
+  background-image: url(assets/images/drumImages/tom1.png);
   }
   
 .w {
-  background-image: url(assets/images/tom2.png);
+  background-image: url(assets/images/drumImages/tom2.png);
   }
   
 .e {
-  background-image: url(assets/images/tom3.png);
+  background-image: url(assets/images/drumImages/tom3.png);
   }
   
 .r {
-  background-image: url(assets/images/tom4.png);
+  background-image: url(assets/images/drumImages/tom4.png);
   }
   
 .t {
-  background-image: url(assets/images/snare.png);
+  background-image: url(assets/images/drumImages/snare.png);
   }
   
 .y {
-  background-image: url(assets/images/crash.png);
+  background-image: url(assets/images/drumImages/crash.png);
   }
   
 .u {
-  background-image: url(assets/images/kick.png);
+  background-image: url(assets/images/drumImages/kick.png);
   }
-  
+
+
+/* background images for Trump */
+.a {
+  background-image: url(assets/images/trumpImages/trump1.jpg);
+}
+.s {
+  background-image: url(assets/images/trumpImages/trump2.jpeg);
+}
+.d {
+  background-image: url(assets/images/trumpImages/trump3.jpg);
+}
+.f {
+  background-image: url(assets/images/trumpImages/trump4.jpg);
+}
+.g {
+  background-image: url(assets/images/trumpImages/trump5.jpg);
+}
+.h {
+  background-image: url(assets/images/trumpImages/trump6.jpeg);
+}
+.j {
+  background-image: url(assets/images/trumpImages/trump7.jpeg);
+}
+
+
+
+/* background image for Flute */
+.z {
+  background-image: url(assets/images/fluteImages/flute1.jpg);
+}
+.x {
+  background-image: url(assets/images/fluteImages/flute2.jpg);
+}
+.c {
+  background-image: url(assets/images/fluteImages/flute3.jpg);
+}
+.v {
+  background-image: url(assets/images/fluteImages/flute4.jpg);
+}
+.b {
+  background-image: url(assets/images/fluteImages/flute5.jpeg);
+}
+.n {
+  background-image: url(assets/images/fluteImages/flute6.jpg);
+}
+.m {
+  background-image: url(assets/images/fluteImages/flute7.jpg);
+}
 .game-over {
     background-color: red;
     opacity: 0.8;
