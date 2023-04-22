@@ -10,8 +10,8 @@ are organized based on rows, The top row refers to drum sound, Middle row is tru
 
 ## Technologies
 This Project is created with:
-* Javascrip ES13
-* CSS
+* Javascript ES13
+* CSS3
 * HTML5
 
 ## Setup
